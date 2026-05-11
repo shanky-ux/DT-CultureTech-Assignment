@@ -61,13 +61,13 @@ To reduce hallucination risk and improve research quality:
 
 ## Hand-Drawn Thought Process Sketch
 
-![Hand Drawn Sketch](./Part-C/hand_drawn_thought_process.jpg)
+![Hand Drawn Sketch](./Part%20C/hand_drawn_thought_process.jpg.png)
 
 ---
 
 ## Part-B Mindmap
 
-![Mindmap](./Part-C/mindmap_part_b.jpg)
+![Mindmap](./Part%20C/mindmap_part_b.jpg.png)
 
 ---
 
@@ -82,8 +82,8 @@ To reduce hallucination risk and improve research quality:
 - `part_b_sourcing_methods.md`
 
 ## Part-C
-- `hand_drawn_thought_process.jpg`
-- `mindmap_part_b.jpg`
+- `hand_drawn_thought_process.jpg.png`
+- `mindmap_part_b.jpg.png`
 
 ---
 
