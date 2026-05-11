@@ -34,7 +34,7 @@ This repository contains my submission for the DeepThought CultureTech Business 
 
 The assignment was approached using a structured:
 
-Question → Hypothesis → Experiment
+## Question → Hypothesis → Experiment
 
 framework with emphasis on:
 - Evidence-based validation
@@ -57,6 +57,32 @@ To reduce hallucination risk and improve research quality:
 
 ---
 
+# Visual Attachments
+
+## Hand-Drawn Thought Process Sketch
+
+![Hand Drawn Sketch](./Sketch/hand_drawn_thought_process.jpg)
+
+---
+
+## Part-B Mindmap
+
+![Mindmap](./Sketch/mindmap_part_b.jpg)
+
+---
+
+# Repository Files
+
+## Part-A
+- `DT_TargetCompany_Research_25.csv`
+- `methodology.md`
+
+## Part-B
+- `1000_company_proposal.md`
+- `part_b_sourcing_methods.md`
+
+---
+
 # Tools & Sources Used
 - Claude AI
 - ChatGPT
@@ -73,3 +99,10 @@ To reduce hallucination risk and improve research quality:
 # Submission Note
 
 AI tools were used as research assistants and productivity accelerators. Final outputs were manually reviewed, refined, and validated before submission.
+
+The final deliverables were aligned with the assignment requirement of:
+- Scientific execution
+- Question → Hypothesis → Experiment thinking
+- Human verification
+- Controlled AI usage
+- Evidence-backed reasoning
